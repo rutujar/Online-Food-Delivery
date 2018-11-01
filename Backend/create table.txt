@@ -1,0 +1,86 @@
+1.create table customer(
+fname varchar2(20),
+lname varchar2(20),
+custid integer primary key,
+emailid varchar2(20),
+pwd varchar2(20),
+address varchar2(20),
+street varchar2(20),
+pincode integer,
+gender varchar2(20),
+phoneno integer,
+allergy varchar2(20));
+
+2. create table cuisine(
+cuisineid integer primary key,
+cuisinename varchar2(20));
+
+3.create table employee(
+empid integer primary key,
+fname varchar2(20),
+lname varchar2(20),
+dob varchar2(20),
+emailid varchar2(20),
+pwd varchar2(20),
+address varchar2(20),
+phoneno integer,
+gender varchar2(20),
+salary number(10,2));
+
+4. create table chef(
+chefid integer primary key,
+chefname varchar2(20),
+address varchar2(20),
+street varchar2(20),
+phoneno varchar2(20),
+spec references cuisine(cuisineid) on delete cascade,
+empid references employee(empid) on delete cascade,
+emailid varchar2(20),
+pwd varchar2(20),
+salary number(10,2));
+
+5. create table ingredient(
+ingid integer primary key,
+ingname varchar2(20));
+
+6. create table food(
+foodid integer primary key,
+foodname varchar2(20),
+price integer,
+quantity integer,
+foodavail varchar2(20),
+cuisineid references cuisine(cuisineid) on delete cascade,
+ingid references ingredient(ingid) on delete cascade,
+chefid references chef(chefid) on delete cascade);
+
+7. create table drink(
+drinkid integer primary key,
+drinkname varchar2(20),
+price number(10,2),
+quantity varchar2(20),
+drinkavail varchar2(20));
+
+8. create table delivery(
+delid integer primary key,
+delname varchar2(20),
+vehicleno varchar2(20),
+custid references customer(custid) on delete cascade,
+empid references employee(empid)on delete cascade,
+delcharge integer,
+deldate date,
+deltime varchar2(20));
+
+9. create table order1(
+ordid integer primary key,
+totalcost integer,
+foodid references food(foodid) on delete cascade,
+drinkid references drink(drinkid) on delete cascade,
+delid references delivery(delid) on delete cascade);
+
+10.create table payment(
+payid integer primary key,
+paymethod varchar2(20),
+custid references customer(custid) on delete cascade,
+ordid references order1(ordid) on delete cascade);
+
+
