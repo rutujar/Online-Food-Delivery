@@ -16,7 +16,7 @@ Download ORACLE 11G and above version.After installing it.
 
 Sample queries can be executed.
 
-#JDBC
+# JDBC
 
 Download ojdbc 7 from oracle website
 
