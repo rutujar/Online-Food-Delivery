@@ -16,6 +16,10 @@ Download ORACLE 11G and above version.After installing it.
 
 Sample queries can be executed.
 
+#JDBC
+
+Download ojdbc 7 from oracle website
+
 # FRONT END
 
 * DOWNLOAD [OFD](https://github.com/rutujar/Online-food-delivery/blob/master/ofd)
