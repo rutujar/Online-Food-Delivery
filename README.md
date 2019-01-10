@@ -1,4 +1,4 @@
-# Online Food Delivery(5TH SEM DBMS MINI PROJECT)[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/rutujar/Online-food-delivery/blob/master/LICENSE)  [![](https://img.shields.io/badge/Rutuja-Rajesh-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/rutuja-rajesh-20909610b/)
+# Online Food Delivery(5TH SEM DBMS MINI PROJECT)  [![](https://img.shields.io/badge/Rutuja-Rajesh-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/rutuja-rajesh-20909610b/)
 
 It is a DBMS Mini project under 2015 VTU CBCS scheme.
 
@@ -66,3 +66,6 @@ NOTE:
 
 * Lacks in dynamic payment.
 
+# LICENSE
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/rutujar/Online-food-delivery/blob/master/LICENSE)
