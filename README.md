@@ -1,4 +1,4 @@
-# Online food delivery
+# Online Food Delivery(5TH SEM DBMS MINI PROJECT)[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/rutujar/Online-food-delivery/blob/master/LICENSE)  [![](https://img.shields.io/badge/Rutuja-Rajesh-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/rutuja-rajesh-20909610b/)
 
 It is a DBMS Mini project under 2015 VTU CBCS scheme.
 
@@ -60,5 +60,9 @@ STEP 7: Customer Details
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Customer%20Details.png)
 
-NOTE:In customer details i have used only 4 attributes include all that for the project.
+NOTE:
+
+* In customer details i have used only 4 attributes include all that for the project.
+
+* Lacks in dynamic payment.
 
