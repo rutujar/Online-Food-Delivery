@@ -32,8 +32,7 @@ Download ojdbc 7 from oracle website
 
 # OUTPUT
 
-STEP 1: Front page
-
+### STEP 1: Front page
 ![Front page](https://github.com/rutujar/Online-food-delivery/blob/master/output/Front%20page.png)
 
 STEP 2: Sign in page
