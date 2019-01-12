@@ -34,8 +34,7 @@ Download ojdbc 7 from oracle website
 
 STEP 1: Front page
 
-![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Front%20page.png)
-Format: ![Alt Text](url)
+![Front page](https://github.com/rutujar/Online-food-delivery/blob/master/output/Front%20page.png)
 
 STEP 2: Sign in page
 
