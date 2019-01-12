@@ -35,27 +35,27 @@ Download ojdbc 7 from oracle website
 ### STEP 1: Front page
 ![Front page](https://github.com/rutujar/Online-food-delivery/blob/master/output/Front%20page.png)
 
-STEP 2: Sign in page
+### STEP 2: Sign in page
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Sign%20in%20page.png)
 
-STEP 3: OFD
+### STEP 3: OFD
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Online%20Food%20Delivery.png)
 
-STEP 4: Employee Access
+### STEP 4: Employee Access
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Employee%20Access.png)
 
-STEP 5: Employee Information
+### STEP 5: Employee Information
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Employee%20Information.png)
 
-STEP 6: Customer Data
+### STEP 6: Customer Data
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Customer%20Data.png)
 
-STEP 7: Customer Details
+### STEP 7: Customer Details
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Customer%20Details.png)
 
