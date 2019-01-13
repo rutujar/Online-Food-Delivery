@@ -22,6 +22,10 @@ Download ojdbc 7 from oracle website
 
 # FRONT END
 
+Install NetBeans IDE 8 and JDK 1.8 and above.
+
+Download ojdbc6 for connectivity both front end and back end.
+
 * DOWNLOAD [OFD](https://github.com/rutujar/Online-food-delivery/blob/master/ofd)
 
                                       OR
@@ -59,7 +63,7 @@ Download ojdbc 7 from oracle website
 
 ![GitHub Logo](https://github.com/rutujar/Online-food-delivery/blob/master/output/Customer%20Details.png)
 
-NOTE:
+# NOTE:
 
 * In customer details i have used only 4 attributes include all that for the project.
 
