@@ -72,3 +72,5 @@ Download ojdbc6 for connectivity both front end and back end.
 # LICENSE
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/rutujar/Online-food-delivery/blob/master/LICENSE)
+
+For more details contact me.
